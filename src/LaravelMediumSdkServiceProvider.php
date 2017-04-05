@@ -15,7 +15,7 @@ class LaravelMediumSdkServiceProvider extends ServiceProvider
     public function boot()
     {
         $this->publishes([
-            __DIR__ . '/../config/laravel-medium-sdk.php' => config('laravel-medium-sdk.php'),
+            __DIR__ . '/config/laravel-medium-sdk.php' => config_path('laravel-medium-sdk.php'),
         ]);
     }
 

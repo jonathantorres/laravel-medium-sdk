@@ -1,7 +1,7 @@
 {
     "name": "jonathantorres/laravel-medium-sdk",
-    "description": "PHP project.",
-    "keywords": [],
+    "description": "Laravel Service Provider for Medium's SDK for PHP.",
+    "keywords": ["laravel", "medium", "medium-api"],
     "license": "MIT",
     "authors": [
         {

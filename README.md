@@ -5,7 +5,7 @@ Laravel Medium SDK
 Laravel Service Provider for Medium's SDK for PHP. Versions `5.0`, `5.1`, `5.2`, `5.3` and `5.4` of the framework are currently supported. Documentation for the SDK can be found [here](https://github.com/jonathantorres/medium-sdk-php).
 
 #### Installation via Composer
-``` bash
+```bash
 $ composer require jonathantorres/laravel-medium-sdk
 ```
 

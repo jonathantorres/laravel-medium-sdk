@@ -2,7 +2,7 @@ Laravel Medium SDK
 ================
 [![Build Status](https://travis-ci.org/jonathantorres/laravel-medium-sdk.svg?branch=master)](https://travis-ci.org/jonathantorres/laravel-medium-sdk)
 
-Laravel Service Provider for Medium's SDK for PHP. Versions `5.1`, `5.2`, `5.3` and `5.4` of the framework are currently supported. Documentation for the SDK can be found [here](https://github.com/jonathantorres/medium-sdk-php).
+Laravel Service Provider for Medium's SDK for PHP. Versions `5.0`, `5.1`, `5.2`, `5.3` and `5.4` of the framework are currently supported. Documentation for the SDK can be found [here](https://github.com/jonathantorres/medium-sdk-php).
 
 #### Installation via Composer
 ```bash

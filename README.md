@@ -37,7 +37,7 @@ public function index(JonathanTorres\LaravelMediumSdk\LaravelMediumSdk $medium)
 ```
 
 #### Running tests
-``` bash
+```bash
 $ composer test
 ```
 

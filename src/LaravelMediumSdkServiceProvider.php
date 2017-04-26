@@ -20,7 +20,7 @@ class LaravelMediumSdkServiceProvider extends ServiceProvider
     }
 
     /**
-     * Register MediumSdk in the container.
+     * Register Medium class instance in the container.
      *
      * @return void
      */

@@ -1,5 +1,9 @@
 # Changelog
 
+#### v0.5.0 `2021-03-08`
+- `Added`
+    - Support for Laravel 5.8
+
 #### v0.4.0 `2018-11-29`
 - `Added`
     - Support for Laravel 5.7

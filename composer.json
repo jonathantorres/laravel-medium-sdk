@@ -15,7 +15,7 @@
         "jonathantorres/medium-sdk": "^0.4.0"
     },
     "require-dev": {
-        "orchestra/testbench": "^4.0",
+        "orchestra/testbench": "^5.0",
         "phpunit/phpunit": "^8.5.8|^9.3.3"
     },
     "autoload": {

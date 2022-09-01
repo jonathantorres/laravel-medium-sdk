@@ -2,7 +2,7 @@ Laravel Medium SDK
 ================
 [![Tests](https://github.com/jonathantorres/laravel-medium-sdk/actions/workflows/tests.yml/badge.svg)](https://github.com/jonathantorres/laravel-medium-sdk/actions/workflows/tests.yml)
 
-Laravel Service Provider for Medium's SDK for PHP. Version `7.x` of the framework is currently supported. Documentation for the SDK can be found [here](https://github.com/jonathantorres/medium-sdk-php).
+Laravel Service Provider for Medium's SDK for PHP. Version `8.x` of the framework is currently supported. Documentation for the SDK can be found [here](https://github.com/jonathantorres/medium-sdk-php).
 
 #### Installation via Composer
 ```bash

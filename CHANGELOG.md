@@ -1,5 +1,9 @@
 # Changelog
 
+#### v0.8.0 `2022-09-02`
+- `Added`
+    - Support for Laravel 8.x
+
 #### v0.7.0 `2022-09-01`
 - `Added`
     - Support for Laravel 7.x
